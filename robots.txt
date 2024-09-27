@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ampletum.github.io/sitemap.ampletum.gz
+Sitemap: https://ampletum.github.io/app/sitemap.ampletum.gz
+Sitemap: https://ampletum.github.io/assets/sitemap.ampletum.gz
+Sitemap: https://ampletum.github.io/css/sitemap.ampletum.gz
+Sitemap: https://ampletum.github.io/data/sitemap.ampletum.gz
+Sitemap: https://ampletum.github.io/includes/sitemap.ampletum.gz
+Sitemap: https://ampletum.github.io/item/sitemap.ampletum.gz
+Sitemap: https://ampletum.github.io/src/sitemap.ampletum.gz
